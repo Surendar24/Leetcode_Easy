@@ -1,1 +1,1 @@
-This contains solved easy questions from Leetcode
+This contains solved easy questions from Leetcode with link to the questions.
